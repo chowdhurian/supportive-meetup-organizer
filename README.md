@@ -12,3 +12,6 @@ resources and guides to help you be a supportive meetup organizer
 
 ## Finance 💰
 ### Include list items for Diversity and Inclusivity tickets in sponsorship packages ([source](https://twitter.com/bitandbang/status/965274611221979136))
+
+## Education
+### Actionable [Diversity](https://github.com/folkswhocode/awesome-diversity) resources
